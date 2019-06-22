@@ -3,6 +3,7 @@ sword and spear
 wall of shields
 standing strong
 on this their shosen battle field
+<<<<<<< HEAD
 
 Form the lines
 Shield by shield
@@ -18,3 +19,7 @@ On this their chosen battle field
 Form the lines
 Shield by shield
 >>>>>>> 625395e66fb24a585ca2008eba529dfe673939e4
+=======
+>>>>>>> parent of 8f15bd8... finish second part
+
+new content
